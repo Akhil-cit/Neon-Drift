@@ -1,3 +1,14 @@
+# Build files
 *.exe
-*.dll
+*.out
+*.obj
 *.o
+build/
+bin/
+
+# IDE files
+.vscode/
+.vs/
+
+# SFML cache
+*.log
