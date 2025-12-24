@@ -1,14 +1,12 @@
-# Build files
+# Build output
 *.exe
-*.out
-*.obj
-*.o
+*.dll
 build/
 bin/
 
-# IDE files
+# Runtime files
+highscore.txt
+
+# IDE
 .vscode/
 .vs/
-
-# SFML cache
-*.log
